@@ -24,6 +24,6 @@ npm install -g
 ## usage example
 
 ```$bash
-$ echo "Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13G36 Safari/601.1" | useragent
-Mobile Safari 9	iOS 9.3.5
+$ echo "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0" | useragent
+Firefox 47	Windows 7 0.0.0
 ```
