@@ -2,7 +2,7 @@
 
 A simple command-line tool for determining browser from user agent string. 
 
-Essentially a tiny wrapper around single call to [`useragent.lookup()`](https://github.com/3rd-Eden/useragent#useragentlookupuseragent-string-js-useragent).
+Essentially a tiny wrapper around single call to [`useragent.lookup`](https://github.com/3rd-Eden/useragent#useragentlookupuseragent-string-js-useragent).
 
 Output in this form:
 
